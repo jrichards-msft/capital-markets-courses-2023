@@ -1,0 +1,56 @@
+Finance and Banking/Investment banking intro Courses - for practical work in Securities
+
+// Updated Feb 24 2023
+// jrichards@scinet.com
+//  ====================================
+//  Comment: 
+//  Unsorted list roughly by significance - first several can be taken in order or in parallel.
+
+
+(A)
+Columbia University - NY Intro Economics of Money and Banking: Backgrounder
+https://www.coursera.org/learn/money-banking
+(B)
+Queens - Digital capital markets - High Fequency Trading/algo trading
+https://www.edx.org/course/digital-capital-markets
+
+Stanford - How Software Ate Finance - Overview of understanding the future of financial services, and provides guidance for creating fintech businesses in the 2020s and beyond.
+https://www.coursera.org/learn/how-software-ate-finance
+
+
+Good intro to Capital markets:
+https://corporatefinanceinstitute.com/course/introduction-to-capital-markets/
+
+Nobel Prize winning economist - Schiller's Yale course:
+https://www.coursera.org/learn/financial-markets-global
+-Yale Financial markets
+
+Capital Markets Overview:
+https://www.udemy.com/course/capital-market-immersion/
+
+Good overview of ML in trading but helps to have a basic understanding of ML/AI:
+https://www.coursera.org/specializations/machine-learning-trading#instructors
+-jack Farmer source - NY Institute of finance
+
+
+Python for Financial Analysis:
+https://elvtr.com/course/python-for-financial-analysis?utm_source=google&utm_medium=cpc&utm_campaign=PFA1&utm_content=discovery_IT&utm_term=569617413061&gclid=Cj0KCQiAlMCOBhCZARIsANLid6Z6mt8Z_ViusFNtaRRhE0F9E7Ycs8DRcKxRUMmdB6uBEl4F3MM6pNoaAuqsEALw_wcB
+
+
+General Banking Specific:
+
+https://alison.com/course/introduction-to-banking-revised
+intro to banking - basics
+
+https://alison.com/course/introduction-to-investment-banking
+-intro to Investment banking
+
+https://alison.com/course/banking-failures-and-the-basel-steel-framework
+-intro to Basel Steel - regulatory for international banking
+
+https://alison.com/course/fiscal-and-monetary-policies-revised
+Fiscal an monetary policy
+
+
+Recommended article:
+https://mitsloan.mit.edu/ideas-made-to-matter/secs-gary-gensler-how-artificial-intelligence-changing-finance
